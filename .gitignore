@@ -1,12 +1,12 @@
 ### Gradle ###
-.gradle
-build
+.gradle/
+build/
 
 ### Maven ###
-target
+target/
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -19,7 +19,7 @@ target
 *.hprof.*
 
 ### misc ###
-logs
+logs/
 *.log
 *.db
 *.bak
@@ -29,6 +29,6 @@ logs
 Thumbs.db
 
 ### Front dependencies ###
-node_modules
-out
-dist
+node_modules/
+out/
+dist/
